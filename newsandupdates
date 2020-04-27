@@ -1,0 +1,217 @@
+<!DOCTYPE HTML>
+<!--
+	Minimaxing by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Taleem-O-Taraqqui</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+ 
+<link href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+	</head>
+	<body>
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper">
+					<div class="container">
+						<div class="row">
+							<div class="col-12">
+
+								<header id="header">
+                                    <img id = "headerLogo" src = "images/logotransparent.png" width = 70px>
+									<h1><a href="index.html" id="logo">Taleem-O-Taraqqui Welfare Society (Regd.)</a></h1>
+                                    
+									
+								</header>
+<nav id="nav">
+                                    <ul id = "list-nav">
+										<li><a href="index.html" class="nav-bordera">Homepage</a></li
+										><li><a href="ourmission.html">Our Mission</a></li
+										><li><a href="newsandupdates.html">News and Updates</a></li
+										><li><a href="upcoming.html">What's Upcoming</a></li
+										><li><a href="photogallery.html">Photo Gallery</a></li
+										><li><a href="donate.html">Donate</a></li
+                                        ><li><a href="contact.html" class = "current-page-item">Contact</a></li
+										><li><a href="aboutus.html" class = "nav-borderb">About Us</a></li>
+                                        </ul>
+									</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+           
+
+			<!-- Main -->
+				<div id="main">
+					<div class="container">
+						<div class="row main-row">
+							<div class="col-8 col-12-medium">
+
+								<section>
+									<h2>Follows us on Instagram, Youtube, Facebook, Whatsapp, and more!</h2>
+                                    <p>On our Twitter page, we post regular updates regarding exams signups and schedules, future meetings, etc. We also regularly update our Instagram and Youtube accounts with videos and pictures related to our work. For more specific/personal questions please email us at <a href = "mailto:taleemotaraqquiwelfaresociety@gmail.com">taleemotaraqquiwelfaresociety@gmail.com.</a></p>
+                                   
+<div class="container">
+
+  <a href="https://facebook.com/colorlib" target="_blank" class="button2 facebook"><span><i class="fa fa-facebook" aria-hidden="true"></i></span><p>Facebook</p></a>
+
+  <a href="https://twitter.com/colorlib" target="_blank" class="button2 twitter"><span><i class="fa fa-twitter" aria-hidden="true"></i></span><p>Twitter</p></a>
+
+  <a href="https://youtube.com/c/Colorlib" target="_blank" class="button2 youtube"><span><i class="fa fa-youtube" aria-hidden="true"></i></span><p>YouTube</p></a>
+
+ <a href="#" class="button2 instagram"><span><i class="fa fa-instagram" aria-hidden="true"></i></span><p>Instagram</p></a>
+</div>
+							
+                                </section>
+
+							</div>
+							<div class="col-4 col-12-medium">
+
+								<section>
+									<h2>Some Of Our Videos</h2>
+									<ul class="small-image-list">
+										<li>
+											<a href="#"><img src="images/totws1.PNG" alt="" class="left" /></a>
+											<h4>Fight Against Coronavirus</h4>
+											<p>In this video we are packing ration kits and sending them to people in need.</p>
+										</li>
+										<li>
+											<a href="#"><img src="images/totws2.PNG" alt="" class="left" /></a>
+											<h4>Motivational Speaker at TOTWS</h4>
+											<p>We invited a successful student to give a motivational speech to our students.</p>
+										</li>
+									</ul>
+								</section>
+
+								<section>
+									<h2>How about some links?</h2>
+									<div>
+										<div class="row">
+											<div class="col-6 col-12-small">
+												<ul class="link-list">
+													<li><a href="#">Sed neque nisi consequat</a></li>
+													<li><a href="#">Dapibus sed mattis blandit</a></li>
+													<li><a href="#">Quis accumsan lorem</a></li>
+													<li><a href="#">Suspendisse varius ipsum</a></li>
+													<li><a href="#">Eget et amet consequat</a></li>
+												</ul>
+											</div>
+											<div class="col-6 col-12-small">
+												<ul class="link-list">
+													<li><a href="#">Quis accumsan lorem</a></li>
+													<li><a href="#">Sed neque nisi consequat</a></li>
+													<li><a href="#">Eget et amet consequat</a></li>
+													<li><a href="#">Dapibus sed mattis blandit</a></li>
+													<li><a href="#">Vitae magna sed dolore</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</section>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<div id="footer-wrapper">
+					<div class="container">
+						<div class="row">
+							<div class="col-8 col-12-medium">
+
+								<section>
+									<h2>How about a truckload of links?</h2>
+									<div>
+										<div class="row">
+											<div class="col-3 col-6-medium col-12-small">
+												<ul class="link-list">
+													<li><a href="#">Sed neque nisi consequat</a></li>
+													<li><a href="#">Dapibus sed mattis blandit</a></li>
+													<li><a href="#">Quis accumsan lorem</a></li>
+													<li><a href="#">Suspendisse varius ipsum</a></li>
+													<li><a href="#">Eget et amet consequat</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-small">
+												<ul class="link-list">
+													<li><a href="#">Quis accumsan lorem</a></li>
+													<li><a href="#">Sed neque nisi consequat</a></li>
+													<li><a href="#">Eget et amet consequat</a></li>
+													<li><a href="#">Dapibus sed mattis blandit</a></li>
+													<li><a href="#">Vitae magna sed dolore</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-small">
+												<ul class="link-list">
+													<li><a href="#">Sed neque nisi consequat</a></li>
+													<li><a href="#">Dapibus sed mattis blandit</a></li>
+													<li><a href="#">Quis accumsan lorem</a></li>
+													<li><a href="#">Suspendisse varius ipsum</a></li>
+													<li><a href="#">Eget et amet consequat</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-small">
+												<ul class="link-list">
+													<li><a href="#">Quis accumsan lorem</a></li>
+													<li><a href="#">Sed neque nisi consequat</a></li>
+													<li><a href="#">Eget et amet consequat</a></li>
+													<li><a href="#">Dapibus sed mattis blandit</a></li>
+													<li><a href="#">Vitae magna sed dolore</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</section>
+
+							</div>
+							<div class="col-4 col-12-medium">
+
+								<section>
+									<h2>Something of interest</h2>
+									<p>Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed.
+									Suspendisse eu varius nibh. Suspendisse vitae magna eget odio amet
+									mollis justo facilisis quis. Sed sagittis mauris amet tellus gravida
+									lorem ipsum dolor sit blandit.</p>
+									<footer class="controls">
+										<a href="#" class="button">Oh, please continue ....</a>
+									</footer>
+								</section>
+
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12">
+
+								<div id="copyright">
+									&copy; Untitled. All rights reserved. | Design: <a href="http://html5up.net">HTML5 UP</a>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
