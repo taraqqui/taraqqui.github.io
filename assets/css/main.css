@@ -2005,6 +2005,9 @@ img {vertical-align: middle;}
 				background-color: #007294;
 			}
 
+        #shrinkimage{
+            width:400px;
+        }
 				#titleBar .title {
 					line-height: 44px;
 				}
@@ -2073,6 +2076,9 @@ img {vertical-align: middle;}
         #navPanel .link:hover{
             background:#fff;
             color:#00536F;
+        }
+        #navPanel a.current-page-item {
+            background-color: #fff;
         }
 				#navPanel .link {
 					display: block;
